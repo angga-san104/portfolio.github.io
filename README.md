@@ -59,4 +59,4 @@ Cloud Scheduler is a fully managed enterprise-grade cron job scheduler. It allow
 One of cloud schedular function are used on this project is for schedule at some spesific time for run some function on cloud function.
 
 ***Downloading data from API***
-Downloading data from API Yahoo Finance use python library yfinance
+Downloading data from API Yahoo Finance use python library yfinances
